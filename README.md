@@ -1,4 +1,4 @@
-<https://github.com/garvitm178/microdevops_udacity/blob/master/circl.svg>
+<img src ="https://github.com/garvitm178/microdevops_udacity/blob/master/circl.svg">
 
 ## Project Overview
 
