@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+<https://github.com/garvitm178/microdevops_udacity/blob/master/circl.svg>
 
 ## Project Overview
 
